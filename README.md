@@ -1,0 +1,6 @@
+# ExcelMultithreadReader
+
+singlethread
+multithread
+parallelstream
+executorservice
